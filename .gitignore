@@ -1,0 +1,8 @@
+.git
+
+# Python pycache:
+__pycache__/
+venv
+
+# Nodejs libraries:
+node_modules/
